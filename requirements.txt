@@ -1,0 +1,7 @@
+mcp
+clickhouse-connect
+fastapi
+sse-starlette
+uvicorn
+python-dotenv
+starlette
